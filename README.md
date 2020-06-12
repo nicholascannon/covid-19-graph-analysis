@@ -2,6 +2,8 @@
 
 ### Dataset from: https://www.kaggle.com/kimjihoo/coronavirusdataset
 
+Checkout the analysis notebook for matplotlib graphs and findings!
+
 ## Project goals: 
 - Analyse covid-19 korea data by building graphs using python, pandas and networkx
 - Simulate and study graph growth over time
